@@ -13,8 +13,6 @@ It's important to note early on that these projects are written with [TypeScript
 
 _Don't be discouraged. You will get by learning TypeScript on-the-fly as you review some of the examples within the codebase. It's easy to get started—the code is, we hope, very approachable (and readable)._
 
-### Stacks
-
 ### Architecture
 
 An understanding of the framework architecture and design will help if you're looking to contribute long-term, or if you are working on a "more complex" PR. Browse the source and read our documentation to get a better sense of how it is structured. The documentation is very thorough and can be used as your progressive guide as you're learning more about Stacks.
