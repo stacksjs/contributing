@@ -1,7 +1,7 @@
 # Contributing
 
 > [!NOTE]  
-> First off, thank you for taking the time to contribute to the Stacks ecosystem 💙_
+> First off, thank you for taking the time to contribute to the Stacks ecosystem 💙
 
 ## 💭 Knowledge
 
