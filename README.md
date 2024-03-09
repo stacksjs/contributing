@@ -1,21 +1,19 @@
 # Contributing
 
-First off, thank you for taking the time to contribute to the Stacks ecosystem ❤️
-
 > [!NOTE]  
-> All projects are written using at least one _(or all)_ of the following techologies: _[TypeScript][typescript], [Bun][bun], [Vite][vite], [Vue][vue], and [Tauri][tauri]_
+> First off, thank you for taking the time to contribute to the Stacks ecosystem 💙_
 
 ## 💭 Knowledge
 
-### TypeScript
+All projects are written using at least one _(or all)_ of the following techologies: _[TypeScript][typescript], [Bun][bun], [Vite][vite], [Vue][vue], and [Tauri][tauri]._
 
-Early on, it's important to note that these projects are written with [TypeScript][typescript]. If you're unfamiliar with it _(or any typed languages)_ then this may feel like a slight roadblock. However, there's never a truly perfect time to start learning it, so ... why not today?
-
-_Don't be discouraged. You will get by learning on-the-fly as you review some of the examples within the codebase. Every project is very approachable (and readable)._
+Early on, it's important to note that while some of the technologies may be new to you, don't get discouraged. With basic JavaScript, HTML and CSS skills, you will get by learning on-the-fly, as you review some of the examples within the codebases. _Every project is very approachable (and readable)._
 
 ### Get Started
 
-Head over to the [repository][stacks] on GitHub and click the Fork button in the top right corner. After the project has been forked, run the following commands in your terminal:
+Head over to the [repository][stacks] on GitHub and click the Fork button in the top right corner. 
+
+After the project has been forked, run the following commands in your terminal:
 
 ```bash
 gh repo clone stacksjs/stacks
@@ -70,9 +68,27 @@ _By following these minor steps, Stacks is able to automatically release new ver
 
 When you're all done, head over to the [repository][stacks], and click the big green `Compare & Pull Request` button that should appear after you've pushed changes to your fork.
 
-Don't expect your PR to be accepted immediately or even accepted at all. Give the community time to vet it and see if it should be merged. Please don't be disheartened if it's not accepted. Your contribution is appreciated more than you can imagine, and even an unmerged PR can teach us a lot ❤️
+Don't expect your PR to be accepted immediately, or even accepted at all. Give the community time to vet it and see if it should be merged. Please don't be disheartened if it's not accepted. Your contribution is appreciated more than you can imagine, and even an unmerged PR can teach us a lot! _Please nudge us in Discord, if you think it slipped our attention!_
 
 **Working on your first Pull Request?** You can learn how from this free series [How to Contribute to an Open Source Project on GitHub][pr-beginner-series].
+
+## Community
+
+For help, discussion about best practices, or any other conversation that would benefit from being searchable:
+
+[Discussions on GitHub](https://github.com/stacksjs/stacks/discussions)
+
+For casual chit-chat with others using this package:
+
+[Join the Stacks Discord Server](https://discord.gg/stacksjs)
+
+## Postcardware
+
+Two things are true: Stacks OSS will always stay open-source, and we do/would love to receive postcards from wherever Stacks is used! 🌍 _And we also publish them on our website.
+
+_Our address: Stacks.js, 5710 Crescent Park #107, Playa Vista 90094, CA, USA_
+
+Made with 💙
 
 [typescript]: https://www.typescriptlang.org
 [vue]: https://vuejs.org/
